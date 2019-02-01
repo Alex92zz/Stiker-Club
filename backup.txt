@@ -1,0 +1,7 @@
+Club arsenal = new Club("Arsenal", 10);
+Striker alex = new Striker("Alex", "29,04,1992",5, arsenal);
+alex.toString();
+alex.isForSale();
+arsenal.setGoals(20);
+alex.toString();
+alex.isForSale();

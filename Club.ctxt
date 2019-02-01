@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=aName\ aGoals
+comment0.target=Club(java.lang.String,\ int)
+comment0.text=\r\n\ A\ constructor\ for\ objects\ of\ class\ Club\ if\ we\ know\ the\ name\r\n\ but\ not\ the\ total\ goals\ scored\ by\ the\ club.\ Total\ goals\ will\ be\ set\ to\ 0.\r\n
+comment1.params=aName
+comment1.target=void\ setName(java.lang.String)
+comment1.text=\r\n\ Setter\ for\ an\ club's\ name.\r\n
+comment2.params=aGoals
+comment2.target=void\ setGoals(int)
+comment2.text=\r\n\ Setter\ for\ club's\ total\ goals.\ The\ total\ number\ of\ goals\ must\ be\ a\ positive\r\n\ integer.\ This\ method\ is\ used\ when\ a\ new\ Club\ is\ added\ to\ the\ system\ and\ the\ club\ \r\n\ already\ has\ scored\ a\ few\ goals.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\r\n\ Getter\ for\ the\ club's\ name.\r\n
+comment4.params=
+comment4.target=int\ getGoals()
+comment4.text=\r\n\ Getter\ for\ the\ club's\ total\ goals.\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Returns\ a\ description\ of\ this\ object\ as\ a\ string.\r\n
+numComments=6
